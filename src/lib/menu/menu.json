@@ -1,0 +1,88 @@
+[{
+	"id": 0,
+	"label": "Dashboard",
+	"nivel": [1,3,4],
+	"isCollapsed" : false,
+	"selecionado": true,
+	"itens": [
+		{
+			"id" : 0,
+			"label": "Dashboard",
+			"link": "dashboard",
+			"selecionado": true,
+			"nivel": [1,3]
+		}
+	]
+},
+{
+	"id": 1,
+	"label": "Cadastros",
+	"nivel": [1,3],
+	"isCollapsed" : false,
+	"selecionado": false,
+	"itens" :[
+		{
+			"id" : 0,
+			"label" : "Produtos",
+			"link" : "produtos",
+			"selecionado": false,
+			"nivel": [1,3]
+		},
+		{
+			"id" : 1,
+			"label" : "Empresas",
+			"link" : "empresas",
+			"selecionado": false,
+			"nivel": [1,3]
+		},
+		{	
+			"id" : 2,
+			"label" : "Clientes",
+			"link" : "clientes",
+			"selecionado": false,
+			"nivel": [1,3]
+		},
+		{	
+			"id" : 3,
+			"label" : "Usuários",
+			"link" : "usuarios",
+			"selecionado": false,
+			"nivel": [1,3]
+		}
+	]
+},
+{
+	"id": 2,
+	"label": "Tabela Adm",
+	"nivel": [1,3],
+	"isCollapsed" : false,
+	"selecionado": false,
+	"itens": []
+},
+{
+	"id": 3,
+	"label": "Financeiro",
+	"nivel": [1,3],
+	"isCollapsed" : false,
+	"selecionado": true,
+	"itens": [
+		{
+			"id" : 0,
+			"label": "Contas a Receber",
+			"link": "receber",
+			"selecionado": false,
+			"nivel": [1,3]
+		},
+		{
+			"id" : 0,
+			"label": "Contas a Pagar",
+			"link": "pagar",
+			"selecionado": false,
+			"nivel": [1,3]
+		}
+	]
+}]
+
+
+
+
