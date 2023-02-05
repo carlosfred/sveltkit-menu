@@ -1,5 +1,5 @@
 {
-	"logo": "/src/lib/img/logo.png",
+	"logo": "/logo.png",
 	"grupos": [{
 	"id": 0,
 	"label": "Dashboard",
