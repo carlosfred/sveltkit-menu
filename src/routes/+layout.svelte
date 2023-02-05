@@ -30,7 +30,7 @@
 	.content {
 		flex: 1;
 		min-height: 100vh;
-		background-color: aquamarine;
+		background-color: rgb(222, 233, 229);
 	}
 	
 </style>

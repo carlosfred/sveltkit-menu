@@ -110,11 +110,13 @@
 
 	.item:hover {
 		color: #fff;
-		font-weight: bold;
+		font-weight: 500;
 		background-color: #253746;
 	}
 
 	.item a {
+		display: block;
+		width: 100%;
 		color: #a7b1c2;
 		text-decoration: none;
 	}
