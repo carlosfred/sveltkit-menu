@@ -5,7 +5,8 @@
 
 	import menuItens from './menu.json';
 
-	let dataMenu = menuItens;
+	let logo = menuItens.logo;
+	let dataMenu = menuItens.grupos;
 
 	const selecionaItem = (grupoId, itemId ) => {
 		dataMenu.map((grupo) => {
@@ -24,6 +25,9 @@
 </script>
 
 <div class='container'>
+	<div class="logo">
+		<a href="/"><img src={logo} alt='' /></a>
+	</div>
 	{#each dataMenu as grupo}
 		<div class="grupo {grupo.selecionado ? 'selecionado' : ''}">
 			<div class='itemGrupo'>
@@ -109,4 +113,6 @@
 	.item a:hover {
 		color: #fff;
 	}
+
+
 </style>

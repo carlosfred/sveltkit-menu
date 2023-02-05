@@ -1,4 +1,6 @@
-[{
+{
+	"logo": "../src/lib/img/logo.png",
+	"grupos": [{
 	"id": 0,
 	"label": "Dashboard",
 	"nivel": [1,3,4],
@@ -81,7 +83,7 @@
 			"nivel": [1,3]
 		}
 	]
-}]
+}]}
 
 
 
