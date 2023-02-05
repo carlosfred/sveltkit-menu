@@ -64,7 +64,7 @@
 	"label": "Financeiro",
 	"nivel": [1,3],
 	"isCollapsed" : false,
-	"selecionado": true,
+	"selecionado": false,
 	"itens": [
 		{
 			"id" : 0,

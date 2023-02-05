@@ -109,6 +109,4 @@
 	.item a:hover {
 		color: #fff;
 	}
-
-
 </style>
